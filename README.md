@@ -1,2 +1,2 @@
-# Text_BrowsEditor
-Browser based text editor - PWA
+# J_A_T_E
+Just Another Text Editor! - PWA
