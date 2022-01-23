@@ -34,9 +34,9 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Text BrowsEditor',
-        short_name: 'Text_BrowsEditor',
-        description: 'Browser based text editor!',
+        name: 'J.A.T.E.',
+        short_name: 'JATE',
+        description: 'Just Another Text Editor!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: '/',

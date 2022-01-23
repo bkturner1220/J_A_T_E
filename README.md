@@ -32,16 +32,15 @@
    npm test
 
 ## Screenshots 📷 <a name='screenshots'></a>
-   ![alt text]()
-   <br>
-   
-## Demo Video 📺 <a name='demo'></a>
-   <a href="" target="_blank">----==== YouTube.com Video Link (with audio) ====----</a>
+   ![alt text](./Assets/screenshots/screenshot01.png)
+   ![alt text](./Assets/screenshots/screenshot02.png)
    <br>
    <br>
 
-   ![alt text]()
-        
+   
+## Demo Video 📺 <a name='demo'></a>
+   ![alt text](./Assets/Demo/jate_demo.gif)
+   <br>  
 ## Github Pages URL 🔗 <a name='pages'></a>
    <a href="https://bkturner1220.github.io/J_A_T_E" target="_blank">https://bkturner1220.github.io/J_A_T_E</a>
    
